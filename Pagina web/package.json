@@ -1,0 +1,14 @@
+{
+  "name": "readslove",
+  "version": "1.0.0",
+  "description": "Página web con recomendaciones de libros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Yess",
+  "license": "ISC"
+}
