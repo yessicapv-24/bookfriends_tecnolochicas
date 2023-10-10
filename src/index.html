@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>📚Bookfriend📚</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mooli&family=Poppins:wght@100&family=Young+Serif&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+
+
+  <section class="homeContent" id="homeContent">
+    <header id="homeHeader"><h1>Mi Rincón de lectura</h1></header>
+    <div class="bodyHomeContent">
+         <img id="librrosTerror" src="../Imagenes/terror.png" alt="libros-terror">
+         <img id="librosBestSellers" src="../Imagenes/best-sellers.png" alt="best-sellers">
+         <img id="librosFantasia" src="../Imagenes/fantasía.png" alt="libros-fantasia">
+         <img id="librosNovelas" src="../Imagenes/novelas.png" alt="libros-novelas">
+        </div>
+    <div id="buttons">
+           <button id="btn01">Terror</button>
+           <button id="btn02">Best Sellers</button>
+           <button id="btn03">Fantasía</button>
+           <button id="btn04">Novelas</button>
+    </div>
+    <button id="formulario" class="formulario">Formulario</button>
+      <div class="contact"> 
+        <a  href="https://github.com/yessicapv-24" target="_blank"><img id="github" src="../Imagenes/github.png" alt="Github-Portfolio"/></a>
+        <a  href="https://www.linkedin.com/in/yessica-pvilchis/" target="_blank"> <img id="linkedIn" src="../Imagenes/linkedIn.png" alt="linkedIn"></a>
+        <a  href="https://www.instagram.com/yess_libros/" target="_blank"> <img id="instagram" src="../Imagenes/instagram.png" alt="instagram"></a>
+      </div>
+    
+  </section>
+
+  <section class="terror" id="terrorContent">
+    <header id="terrorHeader"><h1>Terror</h1></header>
+    <ol>
+      <li>Dejad a los niños</li>
+      <li>It</li>
+      <li>El perro de los Baskerville</li>
+      <li>Frankenstein</li>
+      <li>El resplandor</li>
+      <li>Soy leyenda</li>
+    </ol>
+    <div id="terrorBooksContainer"></div>
+    <span id="home" class="material-symbols-outlined">home</span>
+
+</section>
+  </section>
+
+  <section class="bestSellers" id="bestSellersContent">
+    <header id="bestSellersHeader"><h1>Best Sellers</h1></header>
+<ol>
+  <li>La sombra del viento</li>
+    <li>El murmullo de las abejas</li>
+    <li>El infinito en un junco</li>
+    <li>Violeta</li>
+    <li>La chica del tren</li>
+    <li>Romper el círculo</li>
+</ol>
+<div id="bestSellersBooksContainer"></div>
+<span id="homeBS" class="material-symbols-outlined">home</span>
+  </section>
+
+  <section class="librosFantasia" id="fantasiaContent">
+      <header id="fantasiaHeader"><h1>Fantasía</h1></header>
+        <ol>
+          <li>El señor de los anillos</li>
+          <li>El hobbit</li>
+          <li>Crónicas de Narnia</li>
+          <li>La historia interminable</li>
+          <li>heartless</li>
+          <li>El nombre del viento</li>
+        </ol>
+        <div id="fantasiaBooksContainer"></div>
+        <span id="homeF" class="material-symbols-outlined">home</span>
+   </section>
+
+   <section class="librosNovelas" id="novelasContent">
+   <header id="novelasHeader"><h1>Novelas</h1></header>
+        <ol>
+           <li>Rayuela</li>
+           <li>El amor en tiempos de cólera</li>
+           <li>Los miserables</li>
+           <li>Los homnbres que no amaban a las mujeres</li>
+           <li>La tregua</li>
+           <li>El clan del oso cavernario</li>
+        </ol>
+        <div id="novelasBooksContainer"></div> 
+        <span id="homeN" class="material-symbols-outlined">home</span>
+   </section>
+
+   <section id="formContent" >
+    <header id="formularioHeader"><h1>Formulario</h1></header>
+      <!--  FORMULARIO TIPO INPUT TEXT -->
+       <p>Cajita para sugerir una reseña</p>
+       <!-- label - etiqueta para identificar cada respuesta -->
+       <label for="reseña-sugerida">
+         <!-- type - tipo ( TEXT - RADIO - CHECKBOX) -->
+         <input type="text">
+         <button>Enviar</button>
+       </label>
+ 
+       <!--  FORMULARIO TIPO INPUT RADIO -->
+       <p>¿Qué te parecieron nuestras reseñas?</p>
+       <label for="reseñas-excelente">
+         <!-- atributo NAME al input (para relacionar respuestas) -->
+         <input type="radio" name="calificacion"> Excelentes
+       </label>
+       <!-- br - salto de línea (break) -->
+       <br>
+       <label for="reseñas-medio">
+         <input type="radio" name="calificacion"> Regulares
+       </label>
+       <br>
+       <label for="reseñas-malo">
+         <input type="radio" name="calificacion"> Malas
+       </label>
+ 
+       <!--  FORMULARIO TIPO INPUT CHECKBOX -->
+       <p>¿Qué tipo de contenido te gustaría ver más en nuestra página?</p>
+       <label for="libros-populares">
+         <input type="checkbox" name="mas-contenido"> Reseñas de libros populares
+       </label>
+       <br>
+       <label for="libros-menos-conocidos">
+         <input type="checkbox" name="mas-contenido"> Reseñas de libros menos conocidos
+       </label>
+       <br>
+       <label for="entrevistas">
+         <input type="checkbox" name="mas-contenido"> Entrevistas con autores
+       </label>
+       <br>
+       <label for="consejos">
+         <input type="checkbox" name="mas-contenido"> Artículos sobre consejos de lectura
+       </label>
+       <br>
+       <label for="otro">
+         <input type="text" name="mas-contenido"> Otra (especifica)
+       </label>
+     </form>
+     <br>
+     <br>
+     <br>
+     <br>
+     <span id="homeForm" class="material-symbols-outlined">home</span>
+   </section>
+
+   <footer> 
+    <img id="footerImg" src="../Imagenes/copyright.png" alt="copyright">
+    <p>copyright: Yessica Peñaloza Vilchis</p>
+   </footer>
+  
+
+  <div id="root"></div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

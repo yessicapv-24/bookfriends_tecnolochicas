@@ -1,0 +1,159 @@
+
+#homeContent{
+    display: block;
+}
+
+#terrorContent, #bestSellersContent, #fantasiaContent, #novelasContent, #formContent{
+    display: none;
+}
+
+body, header {
+    margin: 0;
+}
+
+header {
+
+   background-image: url(../Imagenes/fondo.png);
+   font-size: xx-large;
+   text-align: center;
+   color: #F8F0E5;
+   -webkit-text-stroke-color: #DAC0A3;
+   -webkit-text-stroke-width: 0.5%;
+   width: 100%;
+   height: 10%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   opacity: 10;
+   
+} 
+body{
+    background-color: #F8F0E5;
+}
+
+#librrosTerror{
+    margin-top: 10%;
+    margin-left: 11%;
+    border-radius: 5%;
+}
+#librosBestSellers{
+   
+    margin-left: 8%;
+    border-radius: 5%;
+}
+#librosFantasia{
+   
+    margin-left: 8%;
+    border-radius: 5%;
+}
+#librosNovelas{
+    
+    margin-left: 8%;
+    border-radius: 5%;
+}
+
+button{
+    margin-top: 1%;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #DAC0A3;
+    color: #102C57;
+    border-color: #DAC0A3;
+}
+#btn01{
+    margin-left: 14%;
+}
+#btn02{
+    margin-left: 15%;
+}
+#btn03{
+    margin-left: 15%;
+}
+
+#btn04{
+    margin-left: 15%;
+}
+#formulario{
+    width: 500px;
+    height: 50px;
+    margin-top: 3%;
+    margin-left: 33%;
+    font-size: larger;
+    background-color: #102C57;
+    color: #F8F0E5;
+    border-radius: 3%;
+    border-color: #102C57;
+}
+.contact{
+    margin-top: 3%;
+}
+#github{
+    max-width: 50px;
+    margin-left: 42%;
+}
+#linkedIn{
+    max-width: 50px;
+    margin-left: 2%;
+}
+#instagram{
+    max-width: 50px;
+    margin-left: 2%;
+}
+footer{ 
+    display: flex;
+    margin-top: 0.7%;
+}
+#footerImg{
+    max-width: 20px;
+    max-height: 20px;
+    margin-left: 40%;
+    margin-top: 0.8%;
+    margin-right: 1%;
+}
+
+.portada{
+    object-fit: cover;
+    width: 65%;
+    height: 50%;
+    align-items: center;
+    margin-top: 10%;
+    border-radius: 2%;
+}
+.row{
+    display: flex;
+}
+.card{
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    flex: 1 1 auto;
+    margin-top: 2%;
+    background-color: #DAC0A3 ;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius:2%;
+    text-align: center;
+
+}
+.description{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+#terrorContent{
+    background-color:#F8F0E5 ;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 1000,
+  'GRAD' 0,
+  'opsz' 24
+}
+span{
+    font-size: 65px !important;
+    margin-top: 10px;
+}

@@ -1,0 +1,200 @@
+{
+"libros":
+[
+    {
+        "genero": "terror",
+        "título": "Dejad a los niños",
+        "autor": "John Saul",
+        "imageLink": "https://www.pinterest.com.mx/pin/31947478599515206/",
+        "resumen": "John Conger viola y asesina a su hija pequeña en el bosque. Cien años después Rose y Jack Conger tienen dos hijas: la pequeña, Sarah (que sufre una esquizofrenia y no habla desde que un día fue al bosque con su padre), y Elisabeth. Jack y Rose sufren las consecuencias de la enfermedad de Sarah y la única que parece sobrellevarlo bien es Elizabeth. Cuando Sarah empieza a aparecer cubierta de lodo y los niños del pueblo empiezan a desaparecer, sospechan que ella tiene algo que ver.",
+        "año": "1977"
+    },
+    {
+        "genero": "terror",
+        "título": "it",
+        "autor": "Stephen King",
+        "imageLink": "https://www.pinterest.com.mx/pin/2111131064481399/", 
+        "resumen": "Tras veintisiete años de tranquilidad y lejanía, una antigua promesa  infantil les hace volver al lugar en el que vivieron su infancia y  juventud como una terrible pesadilla. Regresan a Derry para enfrentarse  con su pasado y enterrar definitivamente la amenaza que los amargó durante su niñez. Saben que pueden morir, pero son conscientes de que no conocerán la paz hasta que aquella cosa sea destruida para siempre.",
+        "año": "2003"
+    },
+    {
+        "genero": "terror",
+        "título": "El perro de los Baskerville",
+        "autor": "Arthur Conan Doyle",
+        "imageLink": "https://www.pinterest.com.mx/pin/519039925816167174/", 
+        "resumen": "Holmes y Watson son llamados a investigar los extraños crímenes aparentemente relacionados con la antigua maldición que pesa sobre la familia Baskerville. El asesino parecer ser un animal enorme y negro con forma de perro, aunque mayor que ningún otro visto jamás por criatura humana. Atraídos por el misterio del caso, nuestros protagonistas se ven pronto envueltos en un laberinto de antiguas supersticiones y oscuras venganzas, en el escenario amenazador y siniestro de los páramos de Dartmoor.",
+        "año": "2003"
+    },
+    {
+        "genero": "terror",
+        "título": "Frankenstein",
+        "autor": "Marry Shelley",
+        "imageLink": "https://pin.it/1UGf9lJ", 
+        "resumen": "La novela narra la historia de Víctor Frankenstein, un joven suizo, estudiante de medicina en Ingolstadt, obsesionado por conocer los secretos del cielo y la tierra. En su afán por desentrañar la misteriosa alma del hombre, Víctor crea un cuerpo a partir de la unión de distintas partes de cadáveres diseccionados.",
+        "año": "1994"
+    }, 
+    {
+        "genero": "terror",
+        "título": "El resplandor",
+        "autor": "Stephen King",
+        "imageLink": "https://pin.it/4FfbBDR", 
+        "resumen": "Danny tenía cinco años, y a esa edad poco niños saben que los espejos invierten las imágenes y menos aún saben diferenciar entre realidad y fantasía. Pero Danny tenía pruebas de que sus fantasías relacionadas con el resplandor del espejo acabarían cumpliéndose: REDRUM. MURDER, asesinato. Pero su padre necesitaba aquel trabajo en el hotel. Danny sabía que su madre pensaba en el divorcio y que su padre se obsesionaba con algo muy malo, tan malo como la muerte y el suicidio. Sí, su padre necesitaba aceptar la propuesta de cuidar de aquel hotel de lujo de más de cien habitaciones, aislado por la nieve durante seis meses. Hasta el deshielo iban a estar solos.",
+        "año": "1977"
+    },
+    {
+        "genero": "terror",
+        "título": "Soy leyenda",
+        "autor": "Richard Mathenson",
+        "imageLink": "https://pin.it/1KLIWyk", 
+        "resumen": "Robert Neville es el único superviviente de una guerra bacteriológica que ha asolado el planeta y convertido al resto de la humanidad en vampiros. Su vida se ha reducido a asesinar el máximo número posible de estos seres sanguinarios durante el día, y a soportar su asedio cada noche. Para ellos, el auténtico monstruo es este hombre que lucha por subsistir en un nuevo orden establecido. Todo un clásico en su género, éste es un perturbador relato sobre la soledad y el aislamiento y una reflexión sobre los binomios como normalidad y anormalidad, bien y mal, que se evidencian como una mera convención derivada del temor y el desconcierto ante lo diferente.",
+        "año": "2013" 
+    },
+    {
+        "genero": "best sellers",
+        "título": "La sombra del viento",
+        "autor": "Carlos Ruíz Zafón",
+        "imageLink": "https://pin.it/5ZTFTXL", 
+        "resumen": "Un amanecer de 1945 un muchacho es conducido por su padre a un misterioso lugar oculto en el corazón de la ciudad vieja: El Cementerio de los Libros Olvidados. Allí, Daniel Sempere encuentra un libro maldito que cambiará el rumbo de su vida y le arrastrará a un laberinto de intrigas y secretos enterrados en el alma oscura de la ciudad. La sombra del viento es un misterio literario ambientado en la Barcelona de la primera mitad del siglo XX, desde los últimos esplendores del Modernismo a las tinieblas de la posguerra. La Sombra del Viento mezcla técnicas de relato de intriga, de novela histórica y de comedia de costumbres pero es, sobre todo, una tragedia histórica de amor cuyo eco se proyecta a través del tiempo. Con gran fuerza narrativa, el autor entrelaza tramas y enigmas a modo de muñecas rusas en un inolvidable relato sobre los secretos del corazón y el embrujo de los libros, manteniendo la intriga hasta la última página.",
+        "año": "2014" 
+    },
+    {
+        "genero": "best sellers",
+        "título": "El murmullo de las abejas",
+        "autor": "Sofía Segobia",
+        "imageLink": "https://pin.it/5eERWEW", 
+        "resumen": "El murmullo de las abejas, el descubrimiento literario del año. La autora que despierta la historia de México y recupera su lugar en nuestros corazones. En Linares, al norte del país, con la Revolución mexicana como telón de fondo. Un buen día, la vieja nana de la familia abandona sorpresivamente un reposo que parecía eterno para perderse en el monte. Cuando la encuentran, sostiene dos pequeños bultos, uno en cada brazo: de un lado un bebé misterioso y del otro un panal de abejas. Ante la insistencia de la nana por conversar y cuidar al pequeño, la familia Morales decide adoptarlo. Cubierto por el manto vivo de abejas que lo acompañarán y guiarán para siempre, Simonopio llega a cambiar la historia de la familia que lo acoge y la de toda una región. Para lograrlo, deberá enfrentar sus miedos, el enemigo que los acecha y las grandes amenazas de la guerra: la influenza española y los enfrentamientos entrelos que desean la tierra ajena y los que protegerán su propiedad a toda costa. El murmullo de las abejas huele a lavanda, a ropa hervida con jabón blanco, a naranjas y miel: una historia impredecible de amor y de entrega por una familia, por la vida, por la tierra y por un hermano al que se ha esperado siempre, pero también, la de una traición que puede acabarlo todo.",
+        "año": "2017" 
+    },
+    {
+        "genero": "best sellers",
+        "título": "El infinito en un junco",
+        "autor": "Irene Vallejo",
+        "imageLink": "https://pin.it/U5vYcdK", 
+        "resumen": "En esta obra exquisita sobre los orígenes del libro, Irene Vallejo recorre la historia del asombroso artefacto que nació hace cinco milenios, cuando los egipcios descubrieron el potencial de un junco al que llamaron «papiro». Con gran sensibilidad y soltura narrativa, la autora se remonta a los campos de batalla de Alejandro, los palacios de Cleopatra, las primeras librerías y los talleres de copia manuscrita, pero también visita las hogueras donde ardieron códices prohibidos, la biblioteca de Sarajevo y el laberinto subterráneo de Oxford en el año 2000. Los tiempos se funden en la aventura colectiva de quienes solo han concebido la vida en compañía de la palabra escrita. Y este ensayo acaba prolongando el diálogo infinito del que tan magistralmente nos habla.",
+        "año": "2021"  
+    },
+    {
+        "genero": "best sellers",
+        "título": "Violeta",
+        "autor": "Isabel Allende",
+        "imageLink": "https://pin.it/3jZns7b", 
+        "resumen": "Violeta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento.Gracias a la clarividencia del padre, la familia saldrá indemne de esta crisis para darse de bruces con una nueva, cuando la Gran Depresión altera la elegante vida urbana que Violeta ha conocido hasta ahora. Su familia lo perderá todo y se verá obligada a retirarse a una región salvaje y remota del país. Allí Violeta alcanzará la mayoría de edad y tendrá su primer pretendiente…En una carta dirigida a una persona a la que ama por encima de todas las demás, Violeta rememora devastadores desengaños amorosos y romances apasionados, momentos de pobreza y también de prosperidad, pérdidas terribles e inmensas alegrías. Moldearán su vida algunos de los grandes sucesos de la historia: la lucha por los derechos de la mujer, el auge y caída de tiranos y, en última instancia, no una, sino dos pandemias.",
+        "año": "2022" 
+    },
+    {
+        "genero": "best sellers",
+        "título": "La chica del tren",
+        "autor": "Paula Hawkis",
+        "imageLink": "https://pin.it/160phDK", 
+        "resumen": "Rachel toma siempre el tren de las 8.04 h. Cada mañana lo mismo: el mismo paisaje, las mismas casas… y la misma parada en la señal roja. Son solo unos segundos, pero le permiten observar a una pareja desayunando tranquilamente en su terraza. Siente que los conoce y se inventa unos nombres para ellos: Jess y Jason. Su vida es perfecta, no como la suya. Pero un día ve algo. Sucede muy deprisa, pero es suficiente. ¿Y si Jess y Jason no son tan felices como ella cree? ¿Y si nada es lo que parece?.",
+        "año": "2015"
+    },
+    {
+        "genero": "best sellers",
+        "título": "Romper el círculo",
+        "autor": "Collen Hoover",
+        "imageLink": "https://pin.it/6jTYRaD", 
+        "resumen": "A veces, quien más te quiere es quién más daño te hace. Lily no siempre lo ha tenido fácil. Por eso, su idílica relación con un magnífico neurocirujano llamado Ryle Kincaid, parece demasiado buena para ser verdad. Cuando Atlas, su primer amor, reaparece repentinamente y Ryle comienza a mostrar su verdadera cara, todo lo que Lily ha construido con él se ve amenazado.",
+        "año": "2022"
+    },
+    {
+        "genero": "Fantasía",
+        "título": "El señor de los anillos",
+        "autor": "J.R.R Tolkien",
+        "imageLink": "https://pin.it/46JjVlY", 
+        "resumen": "En la adormecida e idílica Comarca, un joven hobbit recibe un encargo: custodiar el Anillo Único y emprender el viaje para su destrucción en la Grieta del Destino. Acompañado por magos, hombres, elfos y enanos, atravesará la Tierra Media y se internará en las sombras de Mordor, perseguido siempre por las huestes de Sauron, el Señor Oscuro, dispuesto a recuperar su creación para establecer el dominio definitivo del Mal.",
+        "año": "2022"
+    },
+    {
+        "genero": "Fantasía",
+        "título": "El  Hobbit",
+        "autor": "J.R.R Tolkien",
+        "imageLink": "https://pin.it/2aJFv33", 
+        "resumen": "Smaug parecía profundamente dormido cuandoBilbo espió una vez más desde la entrada. ¡Pero fingía!¡Estaba vigilando la entrada del túnel!...Sacado de su cómodo agujero-hobbit por Gandalf y una banda de enanos, Bilbo se encuentra de pronto en medio de una conspiración que pretende apoderarse del tesoro de Smaug el Magnífico, un enorme y muy peligroso dragón.",
+        "año": "2014"
+    },
+    {
+        "genero": "Fantasía",
+        "título": "Crónicas de Narnia",
+        "autor": "C.S. Lewis",
+        "imageLink": "https://pin.it/kwcCYa4", 
+        "resumen": "Viajes al fin del mundo, criaturas fantásticas y batallas épicas entre el bien y el mal",
+        "año": "2006"
+    },
+    {
+        "genero": "Fantasía",
+        "título": "La historia interminable",
+        "autor": "Michael Ende",
+        "imageLink": "https://pin.it/6gOzp7D", 
+        "resumen": "La Emperatriz Infantil está mortalmente enferma y su reino, Fantasia, corre un grave peligro. La salvación depende de Atreyu, un valiente guerrero de la tribu de los pieles verdes, y Bastian, un niño tímido que lee con pasión un libro mágico. Solo un ser humano puede salvar este lugar encantado. Juntos emprenderán un fascinante viaje a través de tierras de dragones, gigantes, monstruos y magia que no tiene vuelta atrás.",
+        "año": "2006"
+    },
+    {
+        "genero": "Fantasía",
+        "título": "Heartless",
+        "autor": "Marissa Meyer",
+        "imageLink": "https://pin.it/4b3kLOB", 
+        "resumen": "Mucho antes de convertirse en el terror del país de las maravillas, la reina de corazones era una chica que tan solo quería enamorarse… Catherine es una de las jóvenes más deseadas de corazones. Es la favorita del rey. Pero ella quiere vivir bajo sus propias reglas y tomar las riendas de su vida. Pero ¿a qué precio? “Meyer combinó elementos de la oscuridad y de la luz, del destino y del libre albedrío, del amor y del odio, en una historia inolvidable sobre cómo la reina de corazones dejó de ser una joven que soñaba con el verdadero amor y la libertad y se convirtió en una cruel mujer a la que todos recuerdan por su frase, (Que le corten la cabeza).",
+        "año": "2017"
+    }, 
+    {
+        "genero": "Fantasía",
+        "título": "El nombre del viento",
+        "autor": "Patrick Rothfuss",
+        "imageLink": "https://pin.it/5H3gPZi", 
+        "resumen": "En una posada en tierra de nadie, un hombre se dispone a relatar, por primera vez, la auténtica historia de su vida. Una historia que únicamente él conoce y que ha quedado diluida tras los rumores, las conjeturas y los cuentos de taberna que le han convertido en un personaje legendario a quien todos daban ya por muerto: Kvothe... músico, mendigo, ladrón, estudiante, mago, héroe y asesino. Ahora va a revelar la verdad sobre sí mismo. Y para ello debe empezar por el principio: su infancia en una troupe de artistas itinerantes, los años malviviendo como un ladronzuelo en las calles de una gran ciudad y su llegada a una universidad donde esperaba encontrar todas las respuestas que había estado buscando.",
+        "año": "2018"
+    },
+    {
+        "genero": "Novela",
+        "título": "Rayuela",
+        "autor": "Julio Cortázar",
+        "imageLink": "https://pin.it/343jwW2", 
+        "resumen": "El amor turbulento de Oliveira y La Maga, los amigos del Club de la Serpiente, las caminatas por París en busca del cielo y el infierno tienen su reverso en la aventura simétrica de Oliveira, Talira y Traveler en un Buenos Aires teñido por el recuerdo.",
+        "año": "1963"
+    },
+    {
+        "genero": "Novela",
+        "título": "El amor en tiempos de cólera",
+        "autor": "Gabriel García Márquez",
+        "imageLink": "https://pin.it/52Peyc3", 
+        "resumen": "La historia de amor entre Fermina Daza y Florentino Ariza, en el escenario de un pueblecito portuario del Caribe y a lo largo de más de sesenta años, podría parecer un melodrama de amantes contrariados que al final vencen por la gracia del tiempo y la fuerza de sus propios sentimientos, ya que García Márquez se complace en utilizar los más clásicos recursos de los folletines tradicionales. Pero este tiempo -por una vez sucesivo, y no circular-, este escenario y estos personajes son como una mezcla tropical de plantas y arcillas que la mano del maestro modela y fantasea a su placer, para al final ir a desembocar en los territorios del mito y la leyenda. Los zumos, olores y sabores del trópico alimentan una prosa alucinatoria que en esta ocasión llega al puerto oscilante del final feliz.",
+        "año": "1986"
+    },
+    {
+        "genero": "Novela",
+        "título": "Los miserables",
+        "autor": "Víctor Hugo",
+        "imageLink": "https://pin.it/2RZfHZz", 
+        "resumen": "Una historia enmarcada en la Francia del siglo XIX de la que describe sus diferencias sociales. La vida de Jean Valjean sirve para una profunda reflexión sobre la condición humana, en su elección entre el bien y el mal; en la justicia, en la ley, en la religión, en la política y en la ética. Un argumento lleno de acción pero también una novela llena de personajes inolvidables.",
+        "año": "1862"
+    },
+    {
+        "genero": "Novela",
+        "título": "Los hombres que no amaban a las mujeres",
+        "autor": "Strieg Larssson",
+        "imageLink": "https://pin.it/3RmJ95Y", 
+        "resumen": "Harriet Vanger desapareció hace treinta y seis años en una isla sueca propiedad de su poderosa familia. A pesar del despliegue policial, no se encontró ni rastro de la muchacha. ¿Se escapó? ¿Fue secuestrada? ¿Asesinada? El caso está cerrado y los detalles olvidados. Pero su tío Henrik Vanger, un empresario retirado, vive obsesionado con resolver el misterio antes de morir. En las paredes de su estudio cuelgan cuarenta y tres flores secas y enmarcadas. Las primeras siete fueron regalos de su sobrina; las otras llegaron puntualmente para su cumpleaños, de forma anónima, desde que Harriet desapareció. Mikael Blomkvist acepta el extraño encargo de Vanger de retomar la búsqueda de su sobrina. Periodista de investigación y alma de la revista Millennium, dedicada a sacar a la luz los trapos sucios de la política y las finanzas, Blomkvist está vigilado y encausado por una querella por difamación y calumnia presentada por un gran grupo industrial que amenaza con arruinar su carrera y su reputación. Contará con la colaboración inesperada de Lisbeth Salander, una peculiar investigadora privada, socialmente inadaptada, tatuada y llena de piercings, y con extraordinarias e insólitas cualidades. Así empieza esta magnífica novela que es la crónica de los conflictos de una familia, un fascinante fresco del crimen y del castigo, de perversiones sexuales y trampas financieras; un entramado violento y amenazante en el que, no obstante, crecerá una tierna y frágil historia de amor entre dos personajes absolutamente inolvidables",
+        "año": "2008"
+    },
+    {
+        "genero": "Novela",
+        "título": "La tregua",
+        "autor": "Mario Benedetti",
+        "imageLink": "https://pin.it/6koGB8j", 
+        "resumen": "La cotidianidad gris y rutinaria, marcada por la frustración y la ausencia de perspectivas de la clase media urbana, impregna las páginas de esta novela, que, adoptando la forma de un diario personal, relata un breve periodo de la vida de un empleado viudo, próximo a la jubilación, cuya existencia se divide entre la oficina, la casa, el café y una precaria vida familiar dominada por una difícil relación con unos hijos ya adultos. Una inesperada relación amorosa, que parece ofrecer al protagonista un horizonte de liberación y felicidad personal, queda trágicamente interrumpida y será tan sólo un inciso ¿una tregua? en su lucha cotidiana contra el tedio, la soledad y el paso implacable del tiempo.",
+        "año": "1960"
+    },
+    {
+        "genero": "Novela",
+        "título": "El clan del oso cavernario",
+        "autor": "Jean M. Auel",
+        "imageLink": "https://pin.it/4gf2Bjt", 
+        "resumen": "Primer título de la serie Los Hijos de la Tierra. Narra como Ayla, una niña Cromagnon de 5 años, queda aislada de su tribu por culpa de un terremoto. Pese a ser de una estirpe más desarrollada, es acogida por un grupo de Neardentales, que basa sus razonamientos y comportamientos en las experiencias de sus antepasados. Ayla es el eslabón evolutivo, que introduce el adelanto y la renovación. Sus cualidades innatas provocan la conmoción en la sociedad con la que convive y es expulsada por el jefe del clan hacía un futuro incierto.",
+        "año": "1980"
+    }
+
+
+
+]
+}
